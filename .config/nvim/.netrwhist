@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/christopher/Dev/workbench'
+let g:netrw_dirhist_7='/home/christopher/Dev/workbench/restbench'
+let g:netrw_dirhist_6='/home/christopher/Dev/workbench'
+let g:netrw_dirhist_5='/home/christopher/Dev/test'
+let g:netrw_dirhist_4='/home/christopher/Dev/test/helloworld'
+let g:netrw_dirhist_3='/home/christopher/Dev/test'
+let g:netrw_dirhist_2='/home/christopher/Dev/workbench'
+let g:netrw_dirhist_1='/home/christopher/Dev/test.json'
+let g:netrw_dirhist_0='/home/christopher/Dev/workbench'
+let g:netrw_dirhist_9='/home/christopher/.config/nvim/plugin'
