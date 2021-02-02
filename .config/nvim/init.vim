@@ -17,6 +17,11 @@ Plug 'raimondi/delimitMate'
 
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+
+Plug 'preservim/nerdtree'
+Plug 'ryanoasis/vim-devicons'
+
+Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 call plug#end()
 
 let mapleader = " "
