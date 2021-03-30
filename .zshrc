@@ -107,7 +107,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # Set Brave as my default browser
-export BROWSER=/usr/bin/brave
+export BROWSER=/usr/bin/chromium
 
 # Set Vim as the base editor
 export EDITOR="nvim"
